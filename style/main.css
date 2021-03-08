@@ -73,7 +73,7 @@ header nav a:hover{
     color: white;
 
     padding: 15px 30px;/* espaçamento dentro do botao*/
-    margin-right: 15px;/* espacamento entre o botao e os elementos fora dele*/
+    margin-right: 15px;
     font-size: 12px;
 
     cursor: pointer;
